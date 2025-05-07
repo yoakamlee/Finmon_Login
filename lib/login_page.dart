@@ -121,8 +121,7 @@ class _LoginState extends State<Login> {
                         shape:
                             MaterialStateProperty.all<RoundedRectangleBorder>(
                           RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(
-                                20.0), // Adjust the value as needed
+                            borderRadius: BorderRadius.circular(20.0),
                           ),
                         ),
                       ),
